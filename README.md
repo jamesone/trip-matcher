@@ -1,6 +1,4 @@
-# Littlepay Trip Matcher
-
-Welcome to my Trip Matcher program. GUESS WHAT: I love writing Java code, it is really enjoyable! It has been too long since I touched it (5 odd years 😳). With that being said, I would love to keep writing it at Littlepay on such an awesome product!! I am a super quick learner and pick things up quickly, especially when I am surrounded by the best. 
+# Trip Matcher
 
 ## Setting up the project
 
